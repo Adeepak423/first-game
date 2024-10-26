@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1729902101
+Bananas.png::CompressedTexture2D::3524317799010641820::1729463637::1729463637::1::::<><>::
+icon.svg::CompressedTexture2D::2586302131869252578::1728847160::1728847188::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::8747595266356359369::1729452041::1729452041::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::1183294483460926213::1728951724::1728951725::1::::<><>::
+node.tscn::PackedScene::906316308126998771::1729822732::0::1::::<><>::uid://bdgtlp7hacjeu::::res://Purple.png<>uid://d2p14lo8bkmtg::::res://Terrain (16x16).png<>uid://do22s2gxbl6bi::::res://scenes/character_body_2d.tscn<>res://scenes/character_body_2d.gd
+Purple.png::CompressedTexture2D::2610547585329204144::1728947630::1728947630::1::::<><>::
+Run (32x32).png::CompressedTexture2D::4623244797031646604::1729452901::1729452901::1::::<><>::
+Terrain (16x16).png::CompressedTexture2D::9086957526337470524::1728949256::1728949256::1::::<><>::
+::res://scenes/::1729461313
+character_body_2d.gd::GDScript::-1::1729459255::0::1::::<>CharacterBody2D<>::
+character_body_2d.tscn::PackedScene::8199316992912452846::1729461313::0::1::::<><>::uid://q4gxmqd1ds6h::::res://Jump (32x32).png<>uid://dwvnu7dfjfg54::::res://Idle (32x32).png<>uid://b64sfwj6uieoa::::res://Run (32x32).png
