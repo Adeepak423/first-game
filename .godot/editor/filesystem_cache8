@@ -1,14 +1,15 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1733707850
+::res://::1733710380
 Bananas.png::CompressedTexture2D::3524317799010641820::1729460037::1731033533::1::::<><>::
 icon.svg::CompressedTexture2D::2586302131869252578::1728843560::1731033533::1::::<><>::
 Idle (32x32).png::CompressedTexture2D::8747595266356359369::1729448441::1731033533::1::::<><>::
 Jump (32x32).png::CompressedTexture2D::1183294483460926213::1728948124::1731033533::1::::<><>::
-node.tscn::PackedScene::906316308126998771::1732584657::0::1::::<><>::uid://bdgtlp7hacjeu::::res://Purple.png<>uid://d2p14lo8bkmtg::::res://Terrain (16x16).png<>uid://do22s2gxbl6bi::::res://scenes/character_body_2d.tscn<>res://scenes/character_body_2d.gd<>uid://bqhg88ee7wb8g::::res://Bananas.png
+node.tscn::PackedScene::906316308126998771::1733709235::0::1::::<><>::uid://bdgtlp7hacjeu::::res://Purple.png<>uid://d2p14lo8bkmtg::::res://Terrain (16x16).png<>uid://do22s2gxbl6bi::::res://scenes/character_body_2d.tscn<>res://scenes/character_body_2d.gd<>uid://c0y10gi15nl3c::::res://scenes/area_2d.tscn
 Purple.png::CompressedTexture2D::2610547585329204144::1728944030::1731033533::1::::<><>::
 README.md::TextFile::-1::1729899158::0::1::::<><>::
 Run (32x32).png::CompressedTexture2D::4623244797031646604::1729449301::1731033533::1::::<><>::
 Terrain (16x16).png::CompressedTexture2D::9086957526337470524::1728945656::1731033533::1::::<><>::
-::res://scenes/::1732401788
+::res://scenes/::1733709235
+area_2d.tscn::PackedScene::6578731139814468718::1733709235::0::1::::<><>::uid://bqhg88ee7wb8g::::res://Bananas.png
 character_body_2d.gd::GDScript::-1::1732401787::0::1::::<>CharacterBody2D<>::
 character_body_2d.tscn::PackedScene::8199316992912452846::1729457713::0::1::::<><>::uid://q4gxmqd1ds6h::::res://Jump (32x32).png<>uid://dwvnu7dfjfg54::::res://Idle (32x32).png<>uid://b64sfwj6uieoa::::res://Run (32x32).png
