@@ -1,3 +1,4 @@
+Node
 CollisionShape2D
 AnimatedSprite2D
 Area2D
@@ -7,7 +8,6 @@ Sprite2D
 CharacterBody2D
 TileMapLayer
 TextureRect
-Node
 MeshInstance3D
 CollisionShape3D
 CharacterBody3D
