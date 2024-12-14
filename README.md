@@ -1,2 +1,2 @@
 # first-game
- Game i am working on in godot
+ Game i made when learning about godot
